@@ -26,7 +26,7 @@ __Hello World__
 
 ![Cat image](https://placecats.com/200/300)
 
-![Monalisa](yzho0772_9103_tut2/readmeimges/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![Monalisa](readmeimages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
 
 ```
 function helloWorld() {
